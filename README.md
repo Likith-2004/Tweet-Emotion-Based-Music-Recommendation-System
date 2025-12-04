@@ -126,36 +126,24 @@ unzip tweet-dataset.zip -d data/
 
 ### **1. Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/tweet-emotion-music.git
-cd tweet-emotion-music
+git clone https://github.com/Likith-2004/Tweet-Emotion-Based-Music-Recommendation-System.git
+cd Tweet-Emotion-Based-Music-Recommendation-System
 ```
 ## 2. Create a Virtual Environment (Optional but Recommended)
 ```bash
-python -m venv venv
+python -m venv tweet
 ```
 
 ### Activate the Environment
 
 **Windows:**
 ```bash
-venv\Scripts\activate
+tweet\Scripts\activate
 ```
 
 **Mac/Linux:**
 ```bash
-source venv/bin/activate
-```
-
-### 2. Activate the Environment
-
-**Windows:**
-```bash
-venv\Scripts\activate
-```
-
-**Mac/Linux:**
-```bash
-source venv/bin/activate
+source tweet/bin/activate
 ```
 
 ## 3. Install Dependencies
