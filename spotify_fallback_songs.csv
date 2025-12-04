@@ -1,0 +1,61 @@
+id,title,artist,genre,spotify_url
+1,Happy,Pharrell Williams,joy,https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH
+2,Best Day Of My Life,American Authors,joy,https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue
+3,Walking On Sunshine,Katrina & The Waves,joy,https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI
+4,Uptown Funk,Mark Ronson ft. Bruno Mars,joy,https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS
+5,Can’t Stop the Feeling!,Justin Timberlake,joy,https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc
+6,On Top of the World,Imagine Dragons,joy,https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0
+7,Shake It Off,Taylor Swift,joy,https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH
+8,I Gotta Feeling,The Black Eyed Peas,joy,https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR
+9,Firework,Katy Perry,joy,https://open.spotify.com/track/4jCqbQV2CiL7R4hJ2Y7Mvo
+10,Good Life,OneRepublic,joy,https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4
+11,Let It Be,The Beatles,sadness,https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48
+12,Someone Like You,Adele,sadness,https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB
+13,Everybody Hurts,R.E.M.,sadness,https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7
+14,Fix You,Coldplay,sadness,https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q
+15,Tears in Heaven,Eric Clapton,sadness,https://open.spotify.com/track/1Yw1lTnPzGQKYsXfCiw0aQ
+16,Back to December,Taylor Swift,sadness,https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb
+17,The Night We Met,Lord Huron,sadness,https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz
+18,Skinny Love,Birdy,sadness,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+19,Candle in the Wind,Elton John,sadness,https://open.spotify.com/track/4DX6YtJPJ1hM1j6stixlCX
+20,Un-break My Heart,Toni Braxton,sadness,https://open.spotify.com/track/5qu8Vhoy2GNNQvXSIVpU8E
+21,In The End,Linkin Park,anger,https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq
+22,Stronger,Kanye West,anger,https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5
+23,Break Stuff,Limp Bizkit,anger,https://open.spotify.com/track/3hN3Pq6nVRkU8yxz4W1hN2
+24,Killing in the Name,Rage Against the Machine,anger,https://open.spotify.com/track/2vnEkXf8gSOpW0OYkKdIzF
+25,Duality,Slipknot,anger,https://open.spotify.com/track/4xkM0BwLM9H2IUcbYzpcBI
+26,Given Up,Linkin Park,anger,https://open.spotify.com/track/5mxA9rO4lWwvdB6uSnwG07
+27,Bodies,Drowning Pool,anger,https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7
+28,Faint,Linkin Park,anger,https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj
+29,My Generation,Limp Bizkit,anger,https://open.spotify.com/track/2B8txpUvm2r1XrD6W6WhrZ
+30,Down with the Sickness,Disturbed,anger,https://open.spotify.com/track/0fX4KZJnvYk6kNYFfOiS66
+31,Demons,Imagine Dragons,fear,https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a
+32,Thriller,Michael Jackson,fear,https://open.spotify.com/track/2LlX5kxEj55q8vtzWsFaZw
+33,Somebody’s Watching Me,Rockwell,fear,https://open.spotify.com/track/2GUoyTZcqb4oGKt0YXyN4D
+34,Bring Me to Life,Evanescence,fear,https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp
+35,Boulevard of Broken Dreams,Green Day,fear,https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg
+36,Disturbia,Rihanna,fear,https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc
+37,The Sound of Silence,Disturbed,fear,https://open.spotify.com/track/1NpW5kyvO4m1AxOf3ZbQ0j
+38,Bury a Friend,Billie Eilish,fear,https://open.spotify.com/track/6d0d5E5aqemb3wL1hG2W9u
+39,Creep,Radiohead,fear,https://open.spotify.com/track/3HfB5hBU0dmBt8T0iCmH42
+40,Hells Bells,AC/DC,fear,https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj
+41,Perfect,Ed Sheeran,love,https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v
+42,Can’t Help Falling in Love,Elvis Presley,love,https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC
+43,All of Me,John Legend,love,https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a
+44,Make You Feel My Love,Adele,love,https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow
+45,Just the Way You Are,Bruno Mars,love,https://open.spotify.com/track/4J7DB3Fv3wTkDMcU8mvP8m
+46,I Will Always Love You,Whitney Houston,love,https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj
+47,Thinking Out Loud,Ed Sheeran,love,https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f
+48,Endless Love,Diana Ross & Lionel Richie,love,https://open.spotify.com/track/5rtS4ojJkR9c6kVRyI8O4j
+49,Bleeding Love,Leona Lewis,love,https://open.spotify.com/track/7yHEDfrJNd0zWOfXwydNH0
+50,My Heart Will Go On,Celine Dion,love,https://open.spotify.com/track/1tuM8yBePaekEruGsHcimO
+51,Surprise Yourself,Jack Garratt,surprise,https://open.spotify.com/track/5VuBcox5gh7Gna9UFQ2v3U
+52,Wake Me Up,Avicii,surprise,https://open.spotify.com/track/1q1XUW8OFNJUT4xGk3b8YV
+53,Don’t Stop Me Now,Queen,surprise,https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x
+54,Pompeii,Bastille,surprise,https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J
+55,Counting Stars,OneRepublic,surprise,https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1
+56,Rolling in the Deep,Adele,surprise,https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk
+57,Viva La Vida,Coldplay,surprise,https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b
+58,Chandelier,Sia,surprise,https://open.spotify.com/track/2xLOMHjkOK8nzxJ4r6yOKR
+59,Believer,Imagine Dragons,surprise,https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP
+60,Hey Ya!,Outkast,surprise,https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM
